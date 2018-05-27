@@ -1,0 +1,3 @@
+= https-guides.gradle.org-creating-multi-project-builds
+
+Based on Gradle link:https://guides.gradle.org/creating-multi-project-builds[creating-multi-project-builds article]

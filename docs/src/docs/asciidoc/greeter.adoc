@@ -1,0 +1,21 @@
+= Greeter App
+
+A simple greeting application demonstrating the flexibility of a Gradle multi-project build.
+
+== Installation
+
+Unpack the ZIP or TAR file in a suitable location
+
+[source,bash]
+----
+$ unzip app/build/distributions/app.zip
+----
+
+== Usage
+
+[listing]
+----
+$ bash ./opt/greeter/bin/greeter foxy
+
+Hello, Foxy
+----
