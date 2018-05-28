@@ -48,7 +48,7 @@ project ':libs:greeting-library', {
 
 project ':docs', {
 
-  apply plugin : 'org.asciidoctor.convert'
+  apply plugin: 'org.asciidoctor.convert'
 
   asciidoctor {
     sources {
