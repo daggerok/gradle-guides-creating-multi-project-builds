@@ -8,7 +8,7 @@
 buildscript {
   ext {
     spokVersion = '1.0-groovy-2.4'
-    asciidoctorjPdfVersion = '1.5.0-alpha.16'
+    asciidoctorjPdfVersion = '1.5.0-alpha.15'
   }
   dependencies {
     classpath "org.asciidoctor:asciidoctorj-pdf:$asciidoctorjPdfVersion"
